@@ -9,11 +9,11 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
-global.listprefix = ['+','!']
+global.owner = ['628979468325','628979468325','628979468325']
+global.packname = 'iam a chill guy person'
+global.author = 'Greg Sigma'
+global.botname = 'Greg BOT-V2'
+global.listprefix = ['.'/'!']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -27,10 +27,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com/c/',
+	gh: 'https://github.com/',
+	gc: 'https://chat.whatsapp.com/',
+	ch: '12036325040960161@newsletter',
 }
 
 global.limit = {
@@ -62,7 +62,7 @@ global.APIs = {
 	hitori: 'https://my.hitori.pw/api',
 }
 global.APIKeys = {
-	'https://my.hitori.pw/api': 'htrkey-awokawok',
+	'https://my.hitori.pw/api': 'htrkey-WQEhRIaah8kj',
 }
 
 //~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
