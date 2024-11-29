@@ -64,7 +64,7 @@ async function startNazeBot() {
 			return msg?.message || ''
 		}
 		return {
-			conversation: 'Halo Saya Naze Bot'
+			conversation: 'Halo Saya Greg BOT-V2'
 		}
 	}
 	
